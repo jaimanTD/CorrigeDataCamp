@@ -1,0 +1,7 @@
+Introduction to Importing Data in R
+
+Puntos obtenidos: 3200
+
+Intermediate R
+
+Puntos obtenidos: 7050
